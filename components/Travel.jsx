@@ -10,7 +10,7 @@ function Travel() {
           My Travel Journal <strong>web app</strong>
         </h1>
         <p>HTML, CSS, JS & React</p>
-        <img src="../images/travel.png" alt="" />
+        <img src="/images/travel.png" alt="" />
       </section>
       <div className="projects-info">
         <div>
@@ -18,7 +18,7 @@ function Travel() {
             href="https://github.com/samspuds/my-travel-journal"
             target="_blank"
           >
-            <img className="footer-img" src="../images/github-ico.png" alt="" />
+            <img className="footer-img" src="/images/github-ico.png" alt="" />
             GitHub Repo
           </a>
           <a

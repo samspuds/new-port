@@ -15,7 +15,7 @@ export default function Navbar() {
         <div className="profile__container">
           <div id="profile-image">
             <Link to="/Main">
-              <img id="profile" src="../images/bw.png" alt="" />
+              <img id="profile" src="/images/bw.png" alt="" />
             </Link>
           </div>
           <span>devdan</span>

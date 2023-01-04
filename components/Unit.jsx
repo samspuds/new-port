@@ -10,12 +10,12 @@ function Unit() {
           Unit Converter <strong>web app</strong>
         </h1>
         <p>HTML, CSS & JS</p>
-        <img src="../images/unit.png" alt="" />
+        <img src="/images/unit.png" alt="" />
       </section>
       <div className="projects-info">
         <div>
           <a href="https://github.com/samspuds/unit-converter" target="_blank">
-            <img className="footer-img" src="../images/github-ico.png" alt="" />
+            <img className="footer-img" src="/images/github-ico.png" alt="" />
             GitHub Repo
           </a>
           <a

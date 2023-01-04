@@ -10,12 +10,12 @@ function Meme() {
           Meme Generator <strong>web app</strong>
         </h1>
         <p>HTML & CSS</p>
-        <img src="../images/meme.png" alt="" />
+        <img src="/images/meme.png" alt="" />
       </section>
       <div className="projects-info">
         <div>
           <a href="https://github.com/samspuds/meme-generator" target="_blank">
-            <img className="footer-img" src="../images/github-ico.png" alt="" />
+            <img className="footer-img" src="/images/github-ico.png" alt="" />
             GitHub Repo
           </a>
           <a href="https://calm-caramel-eb8ed9.netlify.app" target="_blank">

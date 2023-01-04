@@ -8,7 +8,7 @@ function Footer() {
       <ul>
         <li className="footer-list">
           <a href="https://github.com/samspuds" target="_blank">
-            <img className="footer-img" src="../images/github-ico.png" alt="" />
+            <img className="footer-img" src="/images/github-ico.png" alt="" />
           </a>
         </li>
         <li className="footer-list">
@@ -18,7 +18,7 @@ function Footer() {
           >
             <img
               className="footer-img"
-              src="../images/linkedin-ico.png"
+              src="/images/linkedin-ico.png"
               alt=""
             />
           </a>

@@ -10,7 +10,7 @@ export default function Main() {
           <h1>Hi, I am Daniel</h1>
           <p>Front-End Developer</p>
         </div>
-        <img src="../images/viet.jpg" alt="" />
+        <img src="/images/viet.jpg" alt="" />
       </section>
       <section className="service" id="about-me">
         <h2>What I do</h2>
@@ -60,7 +60,7 @@ export default function Main() {
               </p>
             </div>
           </div>
-          <img src="../images/profilepic.png" alt="" />
+          <img src="/images/profilepic.png" alt="" />
         </div>
       </section>
       <section className="my-projects" id="section1">
@@ -68,13 +68,13 @@ export default function Main() {
         <p>A selection of my range of work</p>
         <div className="my-projects1">
           <Link to="/Meme">
-            <img className="portfolio-item" src="../images/meme.png" alt="" />
+            <img className="portfolio-item" src="/images/meme.png" alt="" />
           </Link>
           <Link to="/Unit">
-            <img className="portfolio-item" src="../images/unit.png" alt="" />
+            <img className="portfolio-item" src="/images/unit.png" alt="" />
           </Link>
           <Link to="/Travel">
-            <img className="portfolio-item" src="../images/travel.png" alt="" />
+            <img className="portfolio-item" src="/images/travel.png" alt="" />
           </Link>
         </div>
       </section>
