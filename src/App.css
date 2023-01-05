@@ -425,7 +425,7 @@ header {
 }
 
 .my-projects > p {
-  color: #922A65;
+  color: #922a65;
   font-weight: 600;
 }
 
@@ -637,7 +637,7 @@ footer > ul {
   display: flex;
   flex-direction: column;
   padding: 5em;
-  
+
   align-items: center;
   height: 70vh;
   color: #fff;
@@ -660,6 +660,6 @@ footer > ul {
 }
 
 .form button:hover {
-  color: #7c0046;
+  color: black;
   border: 1px solid black;
 }
