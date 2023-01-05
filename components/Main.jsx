@@ -50,7 +50,7 @@ export default function Main() {
                 Ireland and Manchester, UK. I am willing to relocate with immediate effect if the right role comes along. I love building apps that solve
                 real-world problems, with strong UX/UI in mind. My specialities
                 include <strong>HTML5, JavaScript, React JS, CSS, and Styled
-                Components.</strong>I have strong experience using <strong>Github, Netlify, Figma and VS Code.</strong>
+                Components.</strong> I have strong experience using <strong>Github, Netlify, Figma and VS Code.</strong>
               </p>
               <p>
                 I have an extemely versitile background, I love challenges and problem solving. My acedemic background is in business, teaching and occupational therapy, I have a
