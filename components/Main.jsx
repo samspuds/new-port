@@ -47,15 +47,15 @@ export default function Main() {
             <div>
               <p>
                 I am a web developer and designer primarily based out of Galway,
-                Ireland and Manchester, UK. I love building apps that solve
+                Ireland and Manchester, UK. I am willing to relocate with immediate effect if the right role comes along. I love building apps that solve
                 real-world problems, with strong UX/UI in mind. My specialities
-                include JavaScript, React JS, Tailwind CSS, and Styled
-                Components.
+                include <strong>HTML5, JavaScript, React JS, CSS, and Styled
+                Components.</strong>I have strong experience using <strong>Github, Netlify, Figma and VS Code.</strong>
               </p>
               <p>
-                My background is in teaching and occupational therapy, I have a
-                bachelors degree in Business, and a masters degree in
-                occupational therpy. I have many interests spanning from sports
+                I have an extemely versitile background, I love challenges and problem solving. My acedemic background is in business, teaching and occupational therapy, I have a
+                bachelors degree in Business where I specialised in business management, and I have a masters degree in
+                occupational therapy. I have many interests spanning from sports
                 to economics and I am also a former snowboard instructor.
               </p>
             </div>

@@ -26,19 +26,13 @@ function Unit() {
           </a>
         </div>
         <p>
-          This is the main layout of an Instagram clone. It is built using
-          vanilla CSS, and is utilizing Flexbox, CSS Grid, and CSS Variables. It
-          was built as a part of Scrimba's Frontend Developer Career Path.
+          This is a simple unit converter made using JavaScript, CSS flexbox and HTML, this converts both ways using the number inputted in the box provided at the top. Coversions are provided below after the convert button is clicked.
         </p>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe et
-          amet tenetur! Fugit sequi optio corrupti fugiat ducimus consequatur
-          incidunt?
+          This was made early on in Scrimba's Frontend Developer Career Path course. This was also deployed using Netlify.
         </p>
         <p>
-          Voluptatibus, soluta blanditiis! Incidunt ea unde itaque illo
-          molestiae eligendi sint culpa nobis voluptas sapiente voluptate,
-          magnam ipsum eius earum?
+          Please try it out for yourself in the link provided
         </p>
       </div>
       <div>

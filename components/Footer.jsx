@@ -4,11 +4,11 @@ import React from "react";
 function Footer() {
   return (
     <footer>
-      <a href="mailto:ding.3wtc@simplelogin.co">ding.3wtc@simplelogin.co</a>
+      <h4>email: <a href="mailto:ding.3wtc@simplelogin.co" target="_blank">danieldonnellan@hotmail.com</a></h4>
       <ul>
         <li className="footer-list">
           <a href="https://github.com/samspuds" target="_blank">
-            <img className="footer-img" src="/images/github-ico.png" alt="" />
+            <img className="footer-img" src="../images/github-ico.png" alt="" />
           </a>
         </li>
         <li className="footer-list">
@@ -24,6 +24,8 @@ function Footer() {
           </a>
         </li>
       </ul>
+      <p><strong>devdan.dev ©2023</strong></p>
+      
     </footer>
   );
 }

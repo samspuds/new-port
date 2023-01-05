@@ -9,7 +9,7 @@ function Meme() {
         <h1>
           Meme Generator <strong>web app</strong>
         </h1>
-        <p>HTML & CSS</p>
+        <p>HTML, JS, React & CSS</p>
         <img src="/images/meme.png" alt="" />
       </section>
       <div className="projects-info">
@@ -23,19 +23,14 @@ function Meme() {
           </a>
         </div>
         <p>
-          This is the main layout of an Instagram clone. It is built using React
-          JS, and is utilizing Flexbox, CSS Grid, and CSS Variables. It was
-          built as a part of Scrimba's Frontend Developer Career Path.
+          This is the main layout of a Meme Generator. It is built using React
+          JS, and is utilizing Flexbox for the design. I am a member of a small Bitcoin community and I build this so the member in the community can easily make memes in a few keystrokes without have to sign up to a service or download images. It is able to be used on any device.
         </p>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe et
-          amet tenetur! Fugit sequi optio corrupti fugiat ducimus consequatur
-          incidunt?
+          This web app allows the user to create personalised memes. The images are randomised on each click of the 'Get New Image' button which utilises an API to fetch the images. The text is fixed to the top and bottom areas of the image and remains in place on different sized devices. 
         </p>
         <p>
-          Voluptatibus, soluta blanditiis! Incidunt ea unde itaque illo
-          molestiae eligendi sint culpa nobis voluptas sapiente voluptate,
-          magnam ipsum eius earum?
+          Please try it out for yourself, with the live version provided in the link. It was deployed using Netlify and Vite.
         </p>
       </div>
       <div>

@@ -22,26 +22,22 @@ function Travel() {
             GitHub Repo
           </a>
           <a
-            href="https://dTraveleft-bienenstitch-52e2eb.netlify.app"
+            href="https://deft-bienenstitch-52e2eb.netlify.app/"
             target="_blank"
           >
             👁 Live version
           </a>
         </div>
         <p>
-          This is the main layout of an Instagram clone. It is built using
-          vanilla CSS, and is utilizing Flexbox, CSS Grid, and CSS Variables. It
-          was built as a part of Scrimba's Frontend Developer Career Path.
+          This is the main layout of a Travel journal website. It is built using
+          React, and is utilizing Flexbox for the design layout. It
+          was also built as a part of Scrimba's Frontend Developer Career Path.
         </p>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe et
-          amet tenetur! Fugit sequi optio corrupti fugiat ducimus consequatur
-          incidunt?
+          New post's can be easily added to the data folder which renders the objects onto the page using React.js
         </p>
         <p>
-          Voluptatibus, soluta blanditiis! Incidunt ea unde itaque illo
-          molestiae eligendi sint culpa nobis voluptas sapiente voluptate,
-          magnam ipsum eius earum?
+          
         </p>
       </div>
       <div>
