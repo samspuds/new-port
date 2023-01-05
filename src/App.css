@@ -275,6 +275,7 @@ header {
   background-size: cover;
   background-blend-mode: darken;
   overflow-x: hidden;
+  color: #fff;
 }
 
 .service-1 {
