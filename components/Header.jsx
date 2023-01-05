@@ -28,9 +28,7 @@ export default function Navbar() {
           <li class="nav__item">
             <Link to="/Meme">Projects</Link>
           </li>
-          <li class="nav__item">
-            <a href="#about-me">About</a>
-          </li>
+          
           <li class="nav__item">
             <Link to="/Contact">Contact</Link>
           </li>
@@ -48,9 +46,7 @@ export default function Navbar() {
           <li>
             <Link to="/Meme">Projects</Link>
           </li>
-          <li>
-            <a href="#about-me">ABOUT</a>
-          </li>
+          
           <li>
             <Link to="/Contact">Contact</Link>
           </li>
