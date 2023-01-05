@@ -42,7 +42,7 @@ export default function Main() {
           <div className="about-me-main1">
             <h2>Who I am</h2>
             <p>
-              Front-End Developer based in the <span> Ireland and the UK</span>
+              Front-End Developer based in <span> Ireland and the UK</span>
             </p>
             <div>
               <p>
@@ -53,8 +53,8 @@ export default function Main() {
                 Components.</strong> I have strong experience using <strong>Github, Netlify, Figma and VS Code.</strong>
               </p>
               <p>
-                I have an extemely versitile background, I love challenges and problem solving. My acedemic background is in business, teaching and occupational therapy, I have a
-                bachelors degree in Business where I specialised in business management, and I have a masters degree in
+                I have an extemely versitile background, I love challenges and problem solving. My acedemic background is in business, teaching and occupational therapy. I have a
+                bachelors degree in business where I specialised in business management, and I have a masters degree in
                 occupational therapy. I have many interests spanning from sports
                 to economics and I am also a former snowboard instructor.
               </p>
