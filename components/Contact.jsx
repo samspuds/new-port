@@ -50,7 +50,7 @@ function Contact() {
           onChange={handleChange}
           value={data.message}
           placeholder="...type your message"
-          id=""
+          id="textarea"
           cols="30"
           rows="10"
         />
