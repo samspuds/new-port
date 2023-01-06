@@ -649,10 +649,13 @@ footer > ul {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  width: 26em;
+  width: 20em;
   padding: 2em;
   background-color: grey;
   box-shadow: 3px 3px 8px grey;
+}
+#textarea {
+  width: 20em;
 }
 .form button {
   font-weight: 600;
@@ -662,4 +665,13 @@ footer > ul {
 .form button:hover {
   color: black;
   border: 1px solid black;
+}
+
+@media (min-width: 625px) {
+  .form {
+    width: 26em;
+  }
+  #textarea {
+    width: 26em;
+  }
 }
