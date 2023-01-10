@@ -51,7 +51,7 @@ header {
   width: 50px;
   border-radius: 50px;
   margin-right: 10px;
-  margin-left: 5em;
+  margin-left: 2em;
   width: 4rem;
   height: 4rem;
   object-fit: cover;
@@ -85,6 +85,9 @@ header {
 }
 
 @media (max-width: 850px) {
+  #profile {
+    margin-left: 5em;
+  }
   .navbar {
   }
 
