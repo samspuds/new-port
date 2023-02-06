@@ -4,6 +4,7 @@ import "./App.css";
 import Header from "../components/Header.jsx";
 import Main from "../components/Main.jsx";
 // import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Typing from "../components/Typing";
 import Meme from "../components/Meme";
 import Unit from "../components/Unit";
 import Travel from "../components/Travel";
@@ -21,6 +22,7 @@ function App() {
       <Routes>
         <Route index element={<Main />} />
         <Route path="Main" element={<Main />} />
+        <Route path="Typing" element={<Typing />} />
         <Route path="Meme" element={<Meme />} />
         <Route path="Unit" element={<Unit />} />
         <Route path="Travel" element={<Travel />} />

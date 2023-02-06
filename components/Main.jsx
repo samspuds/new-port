@@ -1,4 +1,3 @@
-import { useState } from "react";
 import React from "react";
 import { Link } from "react-router-dom";
 
@@ -74,6 +73,9 @@ export default function Main() {
         <h2>My projects</h2>
         <p>A selection of my range of work</p>
         <div className="my-projects1">
+        <Link to="/Typing">
+            <img className="portfolio-item" src="../images/speed.png" alt="" />
+          </Link>
           <Link to="/Meme">
             <img className="portfolio-item" src="/images/meme.png" alt="" />
           </Link>

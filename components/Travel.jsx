@@ -41,7 +41,7 @@ function Travel() {
         </p>
       </div>
       <div>
-        <Link to="/Meme">Next</Link>
+        <Link to="/Typing">Next</Link>
       </div>
     </body>
   );
