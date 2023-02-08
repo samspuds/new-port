@@ -25,7 +25,7 @@ function Typing() {
           </a>
         </div>
         <p>
-          This is a simple unit converter made using JavaScript, CSS flexbox and HTML, this converts both ways using the number inputted in the box provided at the top. Coversions are provided below after the convert button is clicked.
+          This is a speed typing game wrtitten in react. This game was made to test my skills writing clean code in React. Code was updated in Github using front end developer best practices. Steps were taken to ensure that the code was DRY.
         </p>
         <p>
           This was made early on in Scrimba's Frontend Developer Career Path course. This was also deployed using Netlify.

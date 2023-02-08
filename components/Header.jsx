@@ -26,7 +26,7 @@ export default function Navbar() {
             <Link to="/Main">Main</Link>
           </li>
           <li class="nav__item">
-            <Link to="/Meme">Projects</Link>
+            <Link to="/Typing">Projects</Link>
           </li>
           
           <li class="nav__item">

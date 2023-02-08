@@ -32,7 +32,7 @@ export default function Main() {
           </div>
         </div>
 
-        <Link to="/Meme" className="btn">
+        <Link to="/Typing" className="btn">
           Projects
         </Link>
       </section>
